@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku Game implemented by backtracking algorithm for creating and solving Sudoku's grids, and tkinter library for GUI.  
+Sudoku Game implemented by Backtracking algorithm for creating and solving Sudoku's grids. I also used Tkinter library for the GUI.
