@@ -8,8 +8,8 @@ I used Tkinter library as GUI.
 
 # Files:
 
-- suduko_solver.py: responsible for creating and solving boards.
-- game.py: responsible for GUI
+- **suduko_solver.py** responsible for creating and solving boards.
+- **game.py** responsible for the GUI.
 
 
 # Gameplay:
