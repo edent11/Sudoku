@@ -1,5 +1,5 @@
 import tkinter as tk
-import Sudoku_solver as sd
+import sudoku_solver as sd
 import copy
 import random
 import time
